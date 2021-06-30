@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-나는 양현일 입니다.내용추가
+나는 양현일 입니다.
 </body>
 </html>

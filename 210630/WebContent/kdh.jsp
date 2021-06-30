@@ -8,6 +8,5 @@
 </head>
 <body>
 김다혜!
-김다혜
 </body>
 </html>
