@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-김다혜!
-
-
-
 양현일!
 </body>
 </html>
